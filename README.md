@@ -10,6 +10,7 @@ An approach to host my own Bedrock Minecraft Server and share it with my friends
   ```
   Once it starts, you should see something like this:
   ![Minecraft Bedrock Server Starting](attachments/startss.png)
+
   If you wanna turn it off just type stop
 - And that's it!
 
