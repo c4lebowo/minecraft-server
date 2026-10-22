@@ -9,7 +9,7 @@ An approach to host my own Bedrock Minecraft Server and share it with my friends
     sudo ./bedrock_server
   ```
   Once it starts, you should see something like this:
-  ![Minecraft Bedrock Server Starting](attachments/startss.png)
+  ![Minecraft Bedrock Server Starting](/startss.png)
 
   If you wanna turn it off just type stop
 - And that's it!
